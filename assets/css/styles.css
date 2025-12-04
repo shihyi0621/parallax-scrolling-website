@@ -247,6 +247,9 @@ img {
 .section__data {
   margin-bottom: 3rem;
 }
+.section__text {
+  color: #fff7c2;
+}
 
 .section__title {
   font-size: var(--h2-font-size);
